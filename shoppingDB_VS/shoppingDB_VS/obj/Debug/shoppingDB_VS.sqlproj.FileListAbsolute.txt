@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\bin\Debug\shoppingDB_VS.dacpac
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\bin\Debug\shoppingDB_VS.dll
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\bin\Debug\shoppingDB_VS.pdb
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\shoppingDB_VS.sqlproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\Model.xml
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\refactor.xml
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\postdeploy.sql
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\predeploy.sql
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\shoppingDB_VS.dll
+C:\Users\Administrator\Desktop\AXA Skilling\Day 19\shoppingDB_VS\shoppingDB_VS\obj\Debug\shoppingDB_VS.pdb
