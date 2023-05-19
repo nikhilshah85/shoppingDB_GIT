@@ -61,5 +61,10 @@
   <ItemGroup>
     <Build Include="ProductList.sql" />
     <Build Include="customerList.sql" />
+    <Build Include="OrdersList.sql" />
+    <Build Include="v_customers.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="shoppingDB_VS.refactorlog" />
   </ItemGroup>
 </Project>
